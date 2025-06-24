@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <cstdlib>
 #ifndef HEADER_H
 #define HEADER_H
 
@@ -12,7 +11,7 @@ typedef struct
 
 } Stack;
 
-Stack construct()
+Stack construct_stack()
 {
     Stack stack;
 
