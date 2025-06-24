@@ -1,0 +1,12 @@
+Desenvolva um programa em linguagem C que faça uso das estruturas de dados apresentadas na disciplina:
+
+ok - Variáveis 
+ok - Vetores
+- Matrizes
+- Strings
+ok - Structs
+ok - Ponteiros com Alocação Estática e Dinâmica
+ok - Filas
+ok - Pilhas
+- Listas
+- Arquivos
