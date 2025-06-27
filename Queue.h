@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef Queue_H
+#define Queue_H
 
 typedef struct
 {
