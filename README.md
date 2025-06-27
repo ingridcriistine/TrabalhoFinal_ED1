@@ -10,6 +10,6 @@ Este projeto simula o atendimento em um supermercado durante um dia, mostrando a
 - Ponteiros e alocação dinâmica: para gerenciar memória.
 - Arquivos de texto: para salvar o relatório final.
 
-## Trabalho desenvolvimento por:
+## Trabalho desenvolvido por:
 - Ingrid Cristine Rocha
 - Milena Calegari Dourado
