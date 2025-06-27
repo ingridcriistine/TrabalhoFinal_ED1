@@ -9,3 +9,7 @@ Este projeto simula o atendimento em um supermercado durante um dia, mostrando a
 - Matrizes: registram movimento por hora.
 - Ponteiros e alocação dinâmica: para gerenciar memória.
 - Arquivos de texto: para salvar o relatório final.
+
+## Trabalho desenvolvimento por:
+- Ingrid Cristine Rocha
+- Milena Calegari Dourado
