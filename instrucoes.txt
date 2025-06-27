@@ -2,11 +2,11 @@ Desenvolva um programa em linguagem C que faça uso das estruturas de dados apre
 
 ok - Variáveis 
 ok - Vetores
-- Matrizes
-- Strings
+ok - Matrizes
+ok - Strings
 ok - Structs
 ok - Ponteiros com Alocação Estática e Dinâmica
 ok - Filas
 ok - Pilhas
-- Listas
-- Arquivos
+ok - Listas
+ok - Arquivos

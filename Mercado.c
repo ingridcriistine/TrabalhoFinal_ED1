@@ -72,6 +72,6 @@ int main() {
 
     gerarRelatorioDoDia();
     Destruct_(&fila);
-    printf("\nFim da simulação.\n");
+    printf("\nFim da simulacao.\n");
     return 0;
 }

@@ -1,0 +1,31 @@
+=== RELATÓRIO DO DIA - SUPERMERCADO GULINHA 😋 ===
+Clientes atendidos: 8
+Clientes que desistiram: 0
+Maior tamanho da fila: 1
+
+Movimento por hora:
+Hora 08:00 - Atendidos: 0, Desistentes: 0
+Hora 09:00 - Atendidos: 0, Desistentes: 0
+Hora 10:00 - Atendidos: 0, Desistentes: 0
+Hora 11:00 - Atendidos: 1, Desistentes: 0
+Hora 12:00 - Atendidos: 1, Desistentes: 0
+Hora 13:00 - Atendidos: 0, Desistentes: 0
+Hora 14:00 - Atendidos: 1, Desistentes: 0
+Hora 15:00 - Atendidos: 0, Desistentes: 0
+Hora 16:00 - Atendidos: 0, Desistentes: 0
+Hora 17:00 - Atendidos: 0, Desistentes: 0
+Hora 18:00 - Atendidos: 1, Desistentes: 0
+Hora 19:00 - Atendidos: 1, Desistentes: 0
+Hora 20:00 - Atendidos: 1, Desistentes: 0
+Hora 21:00 - Atendidos: 1, Desistentes: 0
+Hora 22:00 - Atendidos: 1, Desistentes: 0
+
+Lista de clientes atendidos:
+- Cliente_1: 3 itens
+- Cliente_2: 3 itens
+- Cliente_3: 2 itens
+- Cliente_4: 4 itens
+- Cliente_5: 3 itens
+- Cliente_6: 5 itens
+- Cliente_7: 2 itens
+- Cliente_8: 5 itens

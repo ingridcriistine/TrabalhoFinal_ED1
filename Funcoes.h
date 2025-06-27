@@ -53,7 +53,7 @@ void gerarRelatorioDoDia() {
         return;
     }
 
-    fprintf(arq, "=== RELATÓRIO DO DIA - SUPERMERCADO GULINHA 😋 ===\n");
+    fprintf(arq, "=== RELATORIO DO DIA - SUPERMERCADO GULINHA 😋 ===\n");
     fprintf(arq, "Clientes atendidos: %d\n", totalAtendidos);
     fprintf(arq, "Clientes que desistiram: %d\n", totalDesistentes);
     fprintf(arq, "Maior tamanho da fila: %d\n\n", maxFila);

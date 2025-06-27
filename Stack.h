@@ -42,7 +42,8 @@ void Push(Stack *stack, int value)
     if (stack->capacity == stack->size)
     {
         stack->capacity = stack->capacity * 2;
-        realloc(stack->array, stack->capacity * sizeof(int));
+        stack->array = (int*)realloc(stack->array, stack->capacity * sizeof(int));
+
     }
 
     stack->array[stack->size] = value;
